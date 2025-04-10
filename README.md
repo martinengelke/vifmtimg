@@ -1,4 +1,7 @@
-# Image previews using Überzug for vifm (vi file manager)
+# Image previews using timg for vifm (vi file manager)
+
+Note: This is a fork of vifmimg which uses Ueberzug for image previewing. 
+Since Uberzug is depreciated I tend to use [timg](https://github.com/hzeller/timg) instead which outputs similar experiences.
 
 ![image](https://raw.githubusercontent.com/cirala/vifmimg/master/screenshot.png)
 
